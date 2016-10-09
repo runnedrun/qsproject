@@ -1,0 +1,2 @@
+# qsproject
+Classadoo generated repo
